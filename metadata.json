@@ -1,0 +1,6 @@
+{
+  "name": "CineFlix",
+  "description": "CineFlix is a full-stack cinematic movie and series streaming platform with discovery, adaptive HTML5 playback, watchlists, watch history, recommendations, and an admin analytics console.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
